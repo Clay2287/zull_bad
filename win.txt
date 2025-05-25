@@ -1,0 +1,13 @@
+go east
+go east
+take shovel
+back
+back
+go west
+take rucksack
+ 
+go south 
+go east
+take key
+go west
+go south
